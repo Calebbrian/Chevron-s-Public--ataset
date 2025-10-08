@@ -1,0 +1,8 @@
+year,production_boe_per_day,annual_revenue_usd_billion,net_income_usd_billion,capex_usd_billion,opex_usd_billion,profit_margin_percent,gross_margin_percent,market_share_percent,carbon_emission_mtons,employee_incidents,training_hours_avg
+2018,2.93,166.3,14.8,19.8,120.0,8.9,30.4,4.8,56.0,45,22.5
+2019,3.06,146.5,2.9,21.0,115.0,2.0,26.7,4.7,55.2,39,23.1
+2020,2.98,94.7,-5.5,13.5,82.0,-5.8,22.0,4.6,50.8,32,24.5
+2021,3.1,155.6,15.6,8.6,106.0,10.0,28.5,4.8,52.3,27,25.2
+2022,3.0,246.25,35.47,12.3,145.0,14.4,31.0,5.1,49.9,22,26.8
+2023,3.1,200.95,21.37,14.8,127.0,10.6,29.5,5.3,48.5,20,27.0
+2024,3.35,202.79,18.2,16.2,130.0,9.0,28.0,5.5,47.8,18,28.3
